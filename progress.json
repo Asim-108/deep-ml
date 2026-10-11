@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:57:57.068Z",
+  "generated_at": "2026-11-13T01:57:59.162Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -104,6 +104,45 @@
       "last_pushed_at": "2026-10-10T20:18:31.358Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1237": {
+      "kind": "problem",
+      "id": "1237",
+      "title": "Batch a TensorDataset with DataLoader",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1237",
+      "path": "problems/1237-batch-a-tensordataset-with-dataloader",
+      "first_solved_at": "2026-10-11T03:13:35.732Z",
+      "last_pushed_at": "2026-10-11T03:13:35.732Z",
+      "language": "python",
+      "lines": 18
+    },
+    "lab:2": {
+      "kind": "lab",
+      "id": "2",
+      "title": "MNIST: Design-Your-Own tiny Pytorch Model",
+      "difficulty": "medium",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/2",
+      "path": "labs/0002-mnist-design-your-own-tiny-pytorch-model",
+      "first_solved_at": "2026-10-11T07:02:00.770Z",
+      "last_pushed_at": "2026-10-11T07:02:00.770Z",
+      "language": "python",
+      "lines": 32
+    },
+    "lab:91c76ab2-7d3a-43a7-98ce-385aab6f1691": {
+      "kind": "lab",
+      "id": "91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "title": "Train a Tiny CNN Image Classifier",
+      "difficulty": "hard",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "path": "labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691-train-a-tiny-cnn-image-classifier",
+      "first_solved_at": "2026-10-11T22:54:34.313Z",
+      "last_pushed_at": "2026-10-11T22:54:34.313Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
